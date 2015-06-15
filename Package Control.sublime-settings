@@ -1,0 +1,20 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"LESS",
+		"Material Theme",
+		"Package Control",
+		"Sass",
+		"SCSS",
+		"Seti_UI"
+	]
+}
