@@ -7,14 +7,20 @@
 		"AdvancedNewFile",
 		"AutoFileName",
 		"BracketHighlighter",
+		"DocBlockr",
 		"Emmet",
 		"Git",
 		"GitGutter",
 		"LESS",
 		"Material Theme",
 		"Package Control",
+		"PHP Companion",
 		"Sass",
 		"SCSS",
-		"Seti_UI"
+		"Seti_UI",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"TrailingSpaces"
 	]
 }
