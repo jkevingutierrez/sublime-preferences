@@ -5,8 +5,11 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"All Autocomplete",
 		"AutoFileName",
 		"BracketHighlighter",
+		"CodeFormatter",
+		"Color Highlighter",
 		"DocBlockr",
 		"Emmet",
 		"Git",
@@ -15,13 +18,10 @@
 		"LESS",
 		"Material Theme",
 		"Package Control",
-		"PHP Companion",
 		"Sass",
 		"SCSS",
-		"Seti_UI",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
-		"SublimeLinter",
-		"TrailingSpaces"
+		"SublimeLinter"
 	]
 }
