@@ -8,7 +8,6 @@
 		"All Autocomplete",
 		"AutoFileName",
 		"BracketHighlighter",
-		"CodeFormatter",
 		"Color Highlighter",
 		"DocBlockr",
 		"Emmet",
@@ -20,8 +19,8 @@
 		"Package Control",
 		"Sass",
 		"SCSS",
-		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter"
 	]
 }
+
