@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -13,14 +14,16 @@
 		"Emmet",
 		"Git",
 		"GitGutter",
-		"jQuery",
+		"JavaScript Completions",
+		"JavaScriptNext - ES6 Syntax",
+		"JsFormat",
 		"LESS",
 		"Material Theme",
 		"Package Control",
 		"Sass",
+		"SassBeautify",
 		"SCSS",
 		"SublimeCodeIntel",
 		"SublimeLinter"
 	]
 }
-
