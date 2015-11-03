@@ -9,6 +9,7 @@
 		"All Autocomplete",
 		"AutoFileName",
 		"BracketHighlighter",
+		"Clickable URLs",
 		"Color Highlighter",
 		"DocBlockr",
 		"Emmet",
@@ -21,9 +22,11 @@
 		"LESS",
 		"Material Theme",
 		"Package Control",
+		"PHP Codebeautifier",
 		"Sass",
 		"SassBeautify",
 		"SCSS",
+		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter"
 	]
