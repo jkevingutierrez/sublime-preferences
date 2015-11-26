@@ -6,10 +6,12 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"Alignment",
 		"All Autocomplete",
 		"AutoFileName",
 		"BracketHighlighter",
 		"Color Highlighter",
+		"ColorPicker",
 		"DocBlockr",
 		"Emmet",
 		"Git",
