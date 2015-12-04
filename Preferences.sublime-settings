@@ -2,7 +2,7 @@
 	"always_show_minimap_viewport": true,
 	"auto_complete": true,
 	"auto_indent": true,
-	"binary_file_patterns": ["*.tbz2", "*.gzip", "*.jpg", "*.jpeg", "*.png", "*.gif", "*.ttf", "*.tga", "*.dds", "*.ico", "*.eot", "*.pdf", "*.swf", "*.jar", "*.zip"],
+	"binary_file_patterns": ["node_modules/*", "bower_components/*","*.tbz2", "*.gzip", "*.jpg", "*.jpeg", "*.png", "*.gif", "*.ttf", "*.tga", "*.dds", "*.ico", "*.eot", "*.pdf", "*.swf", "*.jar", "*.zip"],
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 	"default_encoding": "UTF-8",
@@ -11,8 +11,8 @@
 	"draw_white_space": true,
 	"fade_fold_buttons": false,
 	"file_exclude_patterns": ["*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj","*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb", ".DS_Store", "*.class", "*.psd", "*.db", "*.sublime-workspace", "Thumbs.db"],
-	"folder_exclude_patterns": ["node_modules", "bower_components", ".svn", ".git", ".hg", "CVS"],
-	"font_face": "Consolas",
+	"folder_exclude_patterns": [".svn", ".git", ".hg", "CVS"],
+	"font_face": "Hack",
 	"font_options":
 	[
 		"gray_antialias"
