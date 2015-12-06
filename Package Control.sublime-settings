@@ -27,6 +27,8 @@
 		"SCSS",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
-		"SublimeLinter"
+		"SublimeLinter",
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-jshint"
 	]
 }
