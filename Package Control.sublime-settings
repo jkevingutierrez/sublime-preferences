@@ -29,7 +29,10 @@
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-contrib-htmlhint",
 		"SublimeLinter-contrib-scss-lint",
-		"SublimeLinter-jshint"
+		"SublimeLinter-contrib-tslint",
+		"SublimeLinter-jshint",
+		"TypeScript"
 	]
 }
