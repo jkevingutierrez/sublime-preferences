@@ -51,7 +51,7 @@
 		"*.psd",
 		"*.db",
 		"*.sublime-workspace",
-		"Thumbs.db",
+		"Thumbs.db"
 	],
 	"folder_exclude_patterns":
 	[
