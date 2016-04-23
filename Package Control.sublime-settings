@@ -30,7 +30,7 @@
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-contrib-htmlhint",
-		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-contrib-sass-lint",
 		"SublimeLinter-contrib-tslint",
 		"SublimeLinter-jshint",
 		"TypeScript"
