@@ -23,11 +23,14 @@
 		"*.zip"
 	],
 	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"close_windows_when_empty": true,
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 	"default_encoding": "UTF-8",
 	"detect_indentation": true,
 	"draw_indent_guides": true,
 	"draw_white_space": true,
+	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
 	"file_exclude_patterns":
 	[
@@ -67,18 +70,18 @@
 	[
 		"gray_antialias"
 	],
-	"font_size": 13,
+	"font_size": 14,
 	"gutter": true,
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Vintage"
 	],
 	"indent_subsequent_lines": true,
 	"indent_to_bracket": true,
-	"line_padding_bottom": 2,
-	"line_padding_top": 2,
+	"line_padding_bottom": 6,
+	"line_padding_top": 6,
 	"margin": 4,
+	"save_on_focus_lost": false,
 	"smart_indent": true,
 	"tab_completion": true,
 	"tab_size": 4,
